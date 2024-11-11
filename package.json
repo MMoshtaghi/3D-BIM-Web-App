@@ -1,0 +1,20 @@
+{
+  "name": "vite-project",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "typescript": "~5.6.2",
+    "vite": "^5.4.10",
+    "three": "^0.160.1",
+    "@thatopen/components-front": "2.3.0",
+    "@thatopen/components": "2.3.0",
+    "@thatopen/ui": "2.3.0",
+    "stats.js": "0.17.0"
+  }
+}
