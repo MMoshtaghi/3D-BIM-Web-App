@@ -148,7 +148,7 @@ async function loadIfc() {
   const file = await fetch(
       // "https://raw.githubusercontent.com/MMoshtaghi/temp/refs/heads/main/Kaapelitehdas_junction.ifc",
       // "https://raw.githubusercontent.com/MMoshtaghi/temp/refs/heads/main/modified_Kaapelitehdas_junction.ifc",
-      "https://raw.githubusercontent.com/MMoshtaghi/temp/refs/heads/main/YhdistettyTATE_ARK_1.ifc",
+      "https://raw.githubusercontent.com/MMoshtaghi/3D-BIM-Web-App/refs/heads/main/YhdistettyTATE_ARK_1.ifc",
   );
   const data = await file.arrayBuffer();
   const buffer = new Uint8Array(data);
