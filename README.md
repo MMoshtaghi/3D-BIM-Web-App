@@ -14,3 +14,12 @@ In terms of features, you can:
 
 # Final Words
 Speaking from experience, I think building a 3D web app is a good incentive for an AI engineer to learn JS and TS :)
+
+
+# Demo
+### ifc loader
+![ifc-loader](https://github.com/user-attachments/assets/60c47e27-411a-4574-8c4e-b0175b6688c3)
+
+### ifc object finder
+![ifc-finder 1](https://github.com/user-attachments/assets/bb3603d6-8ca0-45b4-8035-3aab1fe1f46a)
+![ifc-finder 2](https://github.com/user-attachments/assets/27985edc-015d-43bf-8d74-e36d28df244d)
